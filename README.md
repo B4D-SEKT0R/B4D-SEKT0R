@@ -23,13 +23,13 @@
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-## Random dev Quote:
+## 🧠 Random dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-## Random joke:
+## 😂 Random joke:
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-## Snek Rules:
+## 🐍 Snek Rules:
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 
