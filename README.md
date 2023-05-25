@@ -1,6 +1,15 @@
 # Hi there!
 ### My name is Gabriel and i am a Junior Fullstack developer!
 
+## 💻 About my Setup!
+
+- CPU: AMD Ryzen 5 3600G
+- GPU: NVIDIA Geforce GTX 960 (Dying slowly)
+- Memory: Team group T-Force Dark Z (2x8)
+- Motherboard: Gigabyte AB320M
+- OS: POP!_OS
+- IDE: Visual Studio Code
+
 ## 💻 About what i know:
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -16,6 +25,7 @@
 
 ## 💻 About what im learning:
 <div style="display: inline_block">
+  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
