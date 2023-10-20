@@ -1,5 +1,5 @@
 # Hi there!
-### My name is Gabriel and i am a Junior Fullstack developer!
+### My name is Gabriel and i am a Junior Front-End developer!
 
 ## 💻 About my Setup!
 
