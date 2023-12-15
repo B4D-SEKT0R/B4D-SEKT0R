@@ -7,8 +7,8 @@
 - GPU: NVIDIA Geforce GTX 960 (Dying slowly)
 - Memory: Team group T-Force Dark Z (2x8)
 - Motherboard: Gigabyte AB320M
-- OS: POP!_OS
-- IDE: Visual Studio Code
+- OS: [POP!_OS](https://pop.system76.com/)
+- IDE: [Visual Studio Code](https://code.visualstudio.com/)
 
 ## 💻 About what i know:
 <div style="display: inline_block">
