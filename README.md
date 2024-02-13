@@ -3,7 +3,7 @@
 
 ## 💻 About my Setup!
 
-- CPU: AMD Ryzen 5 3640G
+- CPU: AMD Ryzen 5 3400G
 - GPU: NVIDIA Geforce GTX 960 (Dying slowly)
 - Memory: Team group T-Force Dark Z (2x8)
 - Motherboard: Gigabyte AB320M
