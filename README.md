@@ -4,8 +4,8 @@
 ## 💻 About my Setup!
 
 - CPU: AMD Ryzen 5 3400G
-- GPU: NVIDIA Geforce GTX 960 (Dying slowly)
-- Memory: Team group T-Force Dark Z (2x8)
+- GPU: AMD Radeon RX 580 8GB
+- Memory: Team group T-Force Dark Z 32GB 3200Mhz(4x8)
 - Motherboard: Gigabyte AB320M
 - OS: [POP!_OS](https://pop.system76.com/)
 - IDE: [Visual Studio Code](https://code.visualstudio.com/)
