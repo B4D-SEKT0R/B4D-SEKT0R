@@ -1,5 +1,9 @@
 # Hi there!
-### My name is Gabriel and i am a Junior DevOps Engineer!
+### Olá! Eu sou Gabriel um Engenheiro DevOps Jr :D
+
+## Conecte-se Comigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-rodrigues-dev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriiel.ops/)
 
 ## 💻 About my Setup!
 
@@ -7,8 +11,7 @@
 - GPU: AMD Radeon RX 580 8GB
 - Memory: Team group T-Force Dark Z 32GB 3200Mhz(4x8)
 - Motherboard: Gigabyte AB320M
-- OS: [POP!_OS](https://pop.system76.com/)
-- IDE: [Visual Studio Code](https://code.visualstudio.com/)
+- - IDE: [Visual Studio Code](https://code.visualstudio.com/)
 
 ## 💻 About what i know:
 <div style="display: inline_block">
@@ -35,25 +38,14 @@
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabriielOps&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+## Minhas Contribuições
+
 ## 🧠 Random dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ## 😂 Random joke:
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
-
-
-  <!--
-**B4D-SEKT0R/B4D-SEKT0R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
